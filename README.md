@@ -39,7 +39,7 @@ Responsive Design: The application is designed to be fully responsive, providing
 Error Handling: Implemented error handling and validation throughout the application to manage potential issues gracefully.
 Future Enhancements: Potential improvements include adding user reviews, integrating payment gateways, and enhancing the search functionality.
 Deployment Link
-You can view the live application at: Your Vercel Deployment Link
+You can view the live application at: [ Vercel Deployment Link](https://totality-frontend-challenge-eight.vercel.app/)
 
 GitHub Repository
-The source code for this project is available at: Totality Frontend Challenge GitHub Repository
+The source code for this project is available at:https://github.com/AnshuSingh06/totality-frontend-challenge

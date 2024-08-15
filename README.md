@@ -1,5 +1,3 @@
-Totality Frontend Challenge
-Project Overview
 The Totality Frontend Challenge is a property listing application designed to provide users with an intuitive platform to search, filter, and book properties. The application includes features for browsing property listings, viewing detailed property information, and managing bookings. This project demonstrates modern frontend development practices and leverages various technologies to deliver a robust and user-friendly experience.
 
 Tech Stack

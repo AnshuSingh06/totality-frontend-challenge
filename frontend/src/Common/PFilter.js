@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Form, FormControl, Button } from 'react-bootstrap';
 import { useNavigate } from 'react-router-dom';
-import '../CSS/PFilter.css'; // Import the custom CSS file
+import '../CSS/PFilter.css'; 
 
 const PFilter = ({ onFilterChange }) => {
   const [filter, setFilter] = useState({

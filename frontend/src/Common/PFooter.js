@@ -9,7 +9,7 @@ export default function App() {
         <section className=''>
           <p className='d-flex justify-content-center align-items-center'>
             <span className='me-3'>Register for free</span>
-            <Link to="/userreg"> {/* Wrap MDBBtn with Link */}
+            <Link to="/userreg"> 
               <MDBBtn type='button' outline color="light" rounded>
                 Sign up!
               </MDBBtn>

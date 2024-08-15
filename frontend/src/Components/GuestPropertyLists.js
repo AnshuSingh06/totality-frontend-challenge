@@ -65,7 +65,7 @@ const GuestPropertyLists = ({ filters }) => {
     <Row xs={1} md={2} className="g-4">
       {filteredProperties.map((property) => (
         <Col key={property.id}>
-          <Card className="custom-card"> {/* Apply the custom CSS class */}
+          <Card className="custom-card"> 
             <Link to={`/propertyguest/${property.id}`}>
               <Card.Img variant="top" src={property.image} alt={property.title} />
             </Link>
@@ -73,7 +73,7 @@ const GuestPropertyLists = ({ filters }) => {
               <Card.Title>{property.title}</Card.Title>
               <Card.Text>{property.description}</Card.Text>
               <Card.Text><strong>{property.price}</strong></Card.Text>
-              <Link to="/userreg"> {/* Wrap the button with Link */}
+              <Link to="/userreg"> 
                 <button className="btn btn-primary">Book Now</button>
               </Link>
             </Card.Body>

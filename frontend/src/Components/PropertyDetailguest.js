@@ -24,9 +24,9 @@ const PropertyDetailguest = () => {
                 bedrooms: 1,
                 amenities: ['wifi'],
       images: [
-        '/images/modern-house-design.jpg', // Second image
-        '/images/b1.jpg', // First image
-        '/images/k1.jpg'  // Third image
+        '/images/modern-house-design.jpg', 
+        '/images/b1.jpg', 
+        '/images/k1.jpg'  
       ]
     },
     {
@@ -38,9 +38,9 @@ const PropertyDetailguest = () => {
       bedrooms: 3,
       amenities: ['pool', 'parking'],
       images: [
-        '/images/h2.jpg', // First image
-        '/images/b3.jpg', // Second image
-        '/images/kl.jpg'  // Third image
+        '/images/h2.jpg', 
+        '/images/b3.jpg', 
+        '/images/kl.jpg'  
       ]
     },
     {
@@ -52,9 +52,9 @@ const PropertyDetailguest = () => {
       bedrooms: 1,
       amenities: ['wifi', 'parking'],
         images: [
-          '/images/h3.jpg', // First image
-          '/images/b2.jpg', // Second image
-          '/images/k4.jpg'  // Third image
+          '/images/h3.jpg', 
+          '/images/b2.jpg', 
+          '/images/k4.jpg'  
         ]
       },
       {
@@ -66,9 +66,9 @@ const PropertyDetailguest = () => {
       bedrooms: 2,
       amenities: ['pool'],
         images: [
-            '/images/h1.png', // Second image
-          '/images/b4.jpg', // First image
-           '/images/k3.jpg'  // Third image
+            '/images/h1.png', 
+            '/images/b4.jpg', 
+           '/images/k3.jpg'  
         ]
       },
    
